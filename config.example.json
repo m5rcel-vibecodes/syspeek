@@ -1,0 +1,21 @@
+{
+  "enabled_sections": [
+    "system",
+    "cpu",
+    "memory",
+    "storage",
+    "network",
+    "services"
+  ],
+  "refresh_interval": 2.0,
+  "colors": true,
+  "compact": false,
+  "show_ascii_logo": false,
+  "temperature_unit": "C",
+  "network_interfaces": [],
+  "disk_mounts": [
+    "/",
+    "/home"
+  ],
+  "service_filter": []
+}
